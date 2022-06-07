@@ -1,9 +1,11 @@
 name: Glitch Automerge
 
-on:
-  push:
-    branches:    
-      - 'glitch'
+on: workflow_dispatch
+
+# on:
+#   push:
+#     branches:    
+#       - 'glitch'
 
 jobs:
   automerge:
