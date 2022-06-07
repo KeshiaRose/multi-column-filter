@@ -1,2 +1,7 @@
-# filter-across-multiple-columns
-A Tableau extension providing advanced filtering across multiple columns.
+# Multi-Column Filters
+
+
+## To Do
+- set param(s), set set, set filter
+- display list, display chunked list
+- display selected
