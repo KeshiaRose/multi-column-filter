@@ -17,7 +17,7 @@ jobs:
             github.repos.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              commit_message: '🎉 Updated with Glitch',
+              commit_message: context.payload.head_commit.message,
               head: 'glitch',
               base: 'main',
             });
