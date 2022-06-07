@@ -19,5 +19,5 @@ jobs:
               repo: context.repo.repo,
               commit_message: '🎉 Updated with Glitch',
               head: 'glitch',
-              base: 'master',
+              base: 'main',
             });
