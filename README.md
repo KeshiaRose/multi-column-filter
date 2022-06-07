@@ -1,4 +1,5 @@
 # Multi-Column Filters
+A Tableau extension for advanced filtering across multiple columns.
 
 
 ## To Do
