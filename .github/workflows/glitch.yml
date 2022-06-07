@@ -2,7 +2,8 @@ name: Glitch Automerge
 
 on:
   push:
-    branches: [ glitch ]
+    branches:    
+      - 'glitch'
 
 jobs:
   automerge:
